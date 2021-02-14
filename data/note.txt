@@ -1,0 +1,7 @@
+1. Default settiings (non-bright)
+
+2. Default settings, lamp over camera (bright)
+
+3. Lower brightness(-26), lamp over camera
+
+4. Lower gain(30), higher brightness(57), lamp over camera
